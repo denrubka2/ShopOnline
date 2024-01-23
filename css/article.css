@@ -1,0 +1,33 @@
+.article__title {
+  font-size: 50px;
+  margin-bottom: 40px;
+}
+
+.article-body {
+  padding-bottom: 150px;
+}
+
+.article__text {
+  font-size: 22px;
+  white-space: pre-line;
+  line-height: 1.5;
+}
+
+.article-footer {
+  line-height: 33px;
+}
+
+.article__icon_arrow {
+  margin-right: 10px;
+}
+
+.article__link {
+  color: inherit;
+  text-decoration: none;
+}
+
+.article__author {
+  float: right;
+  font-size: 22px;
+  line-height: 1.5;
+}
