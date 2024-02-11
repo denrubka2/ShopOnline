@@ -3,7 +3,7 @@
   margin-bottom: 40px;
 }
 
-.article-body {
+.article__body {
   padding-bottom: 150px;
 }
 
@@ -13,11 +13,11 @@
   line-height: 1.5;
 }
 
-.article-footer {
+.article__footer {
   line-height: 33px;
 }
 
-.article__icon_arrow {
+.article__icon {
   margin-right: 10px;
 }
 
